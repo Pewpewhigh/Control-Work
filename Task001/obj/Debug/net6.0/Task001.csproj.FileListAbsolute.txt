@@ -1,0 +1,15 @@
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\bin\Debug\net6.0\Task001.exe
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\bin\Debug\net6.0\Task001.deps.json
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\bin\Debug\net6.0\Task001.runtimeconfig.json
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\bin\Debug\net6.0\Task001.dll
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\bin\Debug\net6.0\ref\Task001.dll
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\bin\Debug\net6.0\Task001.pdb
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\Task001.csproj.AssemblyReference.cache
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\Task001.AssemblyInfoInputs.cache
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\Task001.AssemblyInfo.cs
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\Task001.csproj.CoreCompileInputs.cache
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\Task001.dll
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\ref\Task001.dll
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\Task001.pdb
+C:\Users\dj300\OneDrive\Рабочий стол\Control Work\Task001\obj\Debug\net6.0\Task001.genruntimeconfig.cache
