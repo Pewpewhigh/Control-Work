@@ -17,11 +17,11 @@
 
 ### 2. Пишем код на языке C# в Visual Studio Code
 
-   1. Задаем метод создания начального массива
+   **1. Задаем метод создания начального массива**
 
-    string[] array - задает массив с переменными, содержащими текст
+    string[] array 
 
-   2. Заполняем массив 
+   **2. Заполняем массив**
 
     "hello",
     "2",
@@ -30,4 +30,26 @@
     "Eho",
     "Alfa"
 
-   3. 
+   **3. Создаем новую переменную, в которую записывается длина массива**
+
+    var result = new string[array.Length]
+
+   **4. Создаем счетчик**
+
+    var newSize = 0
+
+   **5. Задаем цикл**
+
+    foreach (var value in array)
+
+   **6. Задаем условие для цикла**
+
+    if (value.Length <= 3)
+    {
+        result[newSize] = value;
+        newSize++;
+    }
+
+   **7. Выводим результат на экран**
+
+    Console.WriteLine(string.Join(Environment.NewLine, result, 0, newSize));
